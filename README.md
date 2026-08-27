@@ -1,7 +1,5 @@
 FC 26 Player Scouting & Valuation Analysis
 
-Skills Used - SQL analytics, clustering, multivariate analysis, regression, interactive visualization
-
 An interactive player-valuation and scouting analysis over 18,405 FC 26 players. The project uses DuckDB and SQL for analytical queries, scikit-learn for KMeans clustering and linear regression, Plotly for interactive visualizations, and Jupyter widgets for player search and scouting filters.
 
 Problem statement
